@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiReqHTTP", "MultiReqHTTP.csproj", "{0B48CB01-FC1B-4A8B-881C-6AD6FD8D0215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B48CB01-FC1B-4A8B-881C-6AD6FD8D0215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B48CB01-FC1B-4A8B-881C-6AD6FD8D0215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B48CB01-FC1B-4A8B-881C-6AD6FD8D0215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B48CB01-FC1B-4A8B-881C-6AD6FD8D0215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289D0FB9-BDCC-4822-B64B-2E217D981DFB}
+	EndGlobalSection
+EndGlobal
